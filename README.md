@@ -2,6 +2,9 @@
 Meus estudos de C#. <br>
 ---
 
+- [Arrays](https://github.com/Giuliamourac/arrays.git)
+- [Laços de Repetição](https://github.com/Giuliamourac/Laco-de-repeticao.git)
+
 ## Exercícios 🐱‍👤
 
 - [Desconto Atacadão](https://github.com/Giuliamourac/DescontoAtacado.git)
@@ -27,5 +30,3 @@ Meus estudos de C#. <br>
 - [Sequência Pares](https://github.com/Giuliamourac/SequenciaPares.git)
 - [Sequência Centena](https://github.com/Giuliamourac/SequenciaCentena.git)
 - [Sequência Limites](https://github.com/Giuliamourac/SequenciaLimites.git)
-- [Laços de Repetição](https://github.com/Giuliamourac/Laco-de-repeticao.git)
-- [Arrays](https://github.com/Giuliamourac/arrays.git)
