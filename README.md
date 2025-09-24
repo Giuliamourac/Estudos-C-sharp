@@ -26,6 +26,7 @@ Meus estudos de C#. <br>
 - [Nome Completo](https://github.com/Giuliamourac/NomeCompleto.git)
 - [Par Impar](https://github.com/Giuliamourac/ParImpar.git)
 - [Pet Hotel](https://github.com/Giuliamourac/PetHotel.git)
+- [Produto Estoque](https://github.com/Giuliamourac/Produto-Estoque.git)
 - [Ret Contorno](https://github.com/Giuliamourac/RetContorno.git)
 - [Sequência Centena](https://github.com/Giuliamourac/SequenciaCentena.git)
 - [Sequência Limites](https://github.com/Giuliamourac/SequenciaLimites.git)
