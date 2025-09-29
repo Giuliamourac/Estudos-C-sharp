@@ -5,6 +5,7 @@ Meus estudos de C#. <br>
 - [Arrays](https://github.com/Giuliamourac/arrays.git)
 - [Classe](https://github.com/Giuliamourac/Triangulo.git)
 - [Laços de Repetição](https://github.com/Giuliamourac/Laco-de-repeticao.git)
+- [Membros Estáticos](https://github.com/Giuliamourac/membros-Estaticos)
 
 ## Exercícios 🐱‍👤
 
