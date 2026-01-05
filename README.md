@@ -7,6 +7,7 @@ Meus estudos de C#. <br>
 - [Laços de Repetição](https://github.com/Giuliamourac/Laco-de-repeticao.git)
 - [Membros Estáticos](https://github.com/Giuliamourac/membros-Estaticos)
 - [Construtores](https://github.com/Giuliamourac/Produto-Estoque)
+- [Parametros](https://github.com/Giuliamourac/parametros.git)
 
 ## Exercícios 🐱‍👤
 
