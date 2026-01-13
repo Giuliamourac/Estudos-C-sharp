@@ -12,6 +12,7 @@ Meus estudos de C#. <br>
 ## Exercícios 🐱‍👤
 
 - [Análise Crédito](https://github.com/Giuliamourac/AnaliseCredito.git)
+- [Aumento Salário (06/01/2026)](https://github.com/Giuliamourac/aumentoSalario.git)
 - [Cebolinha](https://github.com/Giuliamourac/Cebolinha.git)
 - [Churrasco](https://github.com/Giuliamourac/Churrasco.git)
 - [Contagem Regressiva](https://github.com/Giuliamourac/Contagem-Regressiva.git)
