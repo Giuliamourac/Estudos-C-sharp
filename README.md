@@ -8,6 +8,7 @@ Meus estudos de C#. <br>
 - [Membros Estáticos](https://github.com/Giuliamourac/membros-Estaticos)
 - [Construtores](https://github.com/Giuliamourac/Produto-Estoque)
 - [Parametros](https://github.com/Giuliamourac/parametros.git)
+- [Enum](https://github.com/Giuliamourac/Enum.git)
 
 ## Exercícios 🐱‍👤
 
